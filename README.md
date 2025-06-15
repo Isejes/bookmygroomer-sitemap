@@ -1,2 +1,2 @@
 # Repository-name-
-Sitemap for BookMyGroomer.com
+Index for BookMyGroomer.com
